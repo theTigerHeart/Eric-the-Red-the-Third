@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}</ProjectGuid>
+    <ProjectGuid>{EB1234C0-947B-C7CD-4E49-7A41D97A388F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -63,6 +63,7 @@
     <Compile Include="Assets\Scripts\MenuOption.cs" />
     <Compile Include="Assets\Scripts\Pause.cs" />
     <Compile Include="Assets\Scripts\PlayerControl.cs" />
+    <Compile Include="Assets\Scripts\PleaseSpareTheUnbornHead.cs" />
     <Compile Include="Assets\Scripts\SlowBlock.cs" />
     <Compile Include="Assets\Scripts\SpeedBlock.cs" />
     <Compile Include="Assets\Scripts\TeleBlock.cs" />
@@ -70,10 +71,10 @@
     <Compile Include="Assets\Scripts\Trophy.cs" />
     <Compile Include="Assets\Scripts\Wall.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/Isaac/Desktop/Unity and Coding/Red Square For Real/New Unity Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Isaac/OneDrive/Documents/GitHub/Eric-the-Red-the-Third/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/Isaac/Desktop/Unity and Coding/Red Square For Real/New Unity Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/Isaac/OneDrive/Documents/GitHub/Eric-the-Red-the-Third/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Users/Isaac/Desktop/Games/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
